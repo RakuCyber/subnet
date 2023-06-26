@@ -8,9 +8,7 @@ use JSON;
 
 use Getopt::Long;
 
-use Term::ANSIColor;
 
-use 5.010;
 
 
 
